@@ -37,6 +37,8 @@ La repository è organizzata in cartelle per mantenere l'ordine e facilitare la 
 │
 ├── covers/                        # frame locandine degli episodi
 │
+├── fonts/                         # font utilizzati nei loghi, locandine, etc
+│
 ├── images/                        # loghi, favicon, immagini varie
 │
 ├── utils/                         # alcuni script utili
