@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/valeriogalano/pensieriincodice-assets/main/images/pensieriincodice-logo-telegram-community.png" alt="Logo Progetto" width="150"/>
-  <h1>Pensieri In Codice — Assets</h1>
+  <h1>Pensieri in codice — Assets</h1>
   <p>Repository centralizzata per gli asset sorgente del podcast <a href="https://pensieriincodice.it/">pensieriincodice.it</a> (frame, font, audio, immagini).</p>
   <p>
     <img src="https://img.shields.io/github/stars/valeriogalano/pensieriincodice-assets?style=for-the-badge" alt="GitHub Stars"/>
