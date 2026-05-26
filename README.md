@@ -1,3 +1,9 @@
+> 🏴 **Questo repository è stato spostato su [codeberg.org/valeriogalano/pensieriincodice-assets](https://codeberg.org/valeriogalano/pensieriincodice-assets)**
+>
+> Questa copia su GitHub è in sola lettura. Nuove issue e pull request vanno aperte su Codeberg.
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/valeriogalano/pensieriincodice-assets/main/images/pensieriincodice-logo-telegram-community.png" alt="Logo Progetto" width="150"/>
   <h1>Pensieri in codice — Assets</h1>
